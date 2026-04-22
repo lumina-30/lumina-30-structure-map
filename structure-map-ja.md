@@ -45,10 +45,12 @@
 
 対象：
 - lumina-30-overview
+- Lumi30-Index
 - lumina30-public-reference
 
 特性：
 - 検索入口層
+- 導線最適化
 - 実装を含まない
 
 ---
@@ -70,30 +72,33 @@
 
 ---
 
-## Layer 3 — 事故後運用層
+## Layer 3 — 運用レビュー・記録層
 
 目的：
-事故後安定化の最小参照構造を提供する。
+主たる事故後レビュー経路、
+固定公開記録の真正性、
+安定したアーカイブ配布を提供する。
 
 対象：
-- post-incident-decision-review
-- post-incident-timeboxed-review
-- post-incident-stabilization
-- incident-terminology-minimal
+- lumina30-incident-review
+- Lumi30-Public-Record
+- Lumi30-PDF-Archive
 
 特性：
-- 事故時のみ活性化
-- 評価を含まない
+- レビュー指向
+- 記録保存指向
+- 実務参照型
+- リポジトリ横断互換
 
 ---
 
 ## 構造の流れ
 
 主方向：
-境界 → 翻訳 → 責任 → 事故
+境界 → 翻訳 → 責任 → レビュー / 記録
 
 逆探索経路：
-事故 → 決定確認 → 摩擦 → 停止権 → 境界
+事故 → Incident Review → 構造的責任 → 翻訳 → 境界
 
 ---
 
@@ -101,3 +106,18 @@
 
 本構造マップは解釈を安定化するためのものであり、
 新たな義務や権限を生じさせない。
+
+---
+
+## 関連リポジトリ
+
+See:
+- lumina-30-overview
+- Lumi30-Index
+- lumina30-public-reference
+- lumina30-incident-review
+- stop-authority-reference
+- ai-accountability-reference
+- institutional-friction-toolkit
+- Lumi30-Public-Record
+- Lumi30-PDF-Archive

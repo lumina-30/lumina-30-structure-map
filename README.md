@@ -1,4 +1,4 @@
-﻿## Position within LUMINA-30
+## Position within LUMINA-30
 Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 This repository exists within the LUMINA-30 civilizational boundary reference structure.
@@ -61,6 +61,7 @@ Translate boundary concepts into structurally readable form.
 
 Repositories:
 - lumina-30-overview
+- Lumi30-Index
 - lumina30-public-reference
 
 Characteristics:
@@ -88,32 +89,32 @@ Characteristics:
 
 ---
 
-## Layer 3 — Post-Incident Operational Layer
+## Layer 3 — Operational Review & Record Layer
 
 Purpose:
-Provide minimal reference structures
-for post-incident stabilization and review.
+Provide the main post-incident review route,
+fixed public record integrity, and stable archival distribution.
 
 Repositories:
-- post-incident-decision-review
-- post-incident-timeboxed-review
-- post-incident-stabilization
-- incident-terminology-minimal
+- lumina30-incident-review
+- Lumi30-Public-Record
+- Lumi30-PDF-Archive
 
 Characteristics:
-- Activated only under incident conditions
-- Minimal and non-evaluative
-- Cross-repository reference compatible
+- Review-oriented
+- Record-preserving
+- Operationally referential
+- Cross-repository compatible
 
 ---
 
 ## Structural Flow
 
 Primary Direction:
-Boundary → Translation → Responsibility → Incident
+Boundary → Translation → Responsibility → Review / Record
 
 Reverse Discovery Path (Incident Trigger Route):
-Incident → Decision Review → Friction → Stop Authority → Boundary
+Incident → Incident Review → Structural Responsibility → Translation → Boundary
 
 ---
 
@@ -131,7 +132,11 @@ and does not alter any existing repository status.
 
 See:
 - lumina-30-overview
+- Lumi30-Index
 - lumina30-public-reference
+- lumina30-incident-review
 - stop-authority-reference
+- ai-accountability-reference
 - institutional-friction-toolkit
-
+- Lumi30-Public-Record
+- Lumi30-PDF-Archive
