@@ -1,6 +1,6 @@
 ## Position within LUMINA-30
 
-Primary users / 主な対象者: maintainers, reviewers, and readers checking repository relationships.  
+Primary users ｜ 主な対象者: maintainers, reviewers, and readers checking repository relationships.  
 保守担当、レビュー担当、repo間関係を確認する読者向け。
 
 Use this repository when you need to understand how the LUMINA-30 repositories relate to each other.  
@@ -173,7 +173,7 @@ and does not alter any existing repository status.
 
 ---
 
-## Related Repositories / 関連リポジトリ
+## Related Repositories ｜ 関連リポジトリ
 
 Use the following links by purpose.  
 目的に応じて以下を参照。
