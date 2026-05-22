@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: JP_ONLY -->
 # LUMINA-30 構造マップ
 
 公式構造関係定義  

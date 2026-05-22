@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 ## Position within LUMINA-30
 
 Primary users ｜ 主な対象者: maintainers, reviewers, and readers checking repository relationships.  
