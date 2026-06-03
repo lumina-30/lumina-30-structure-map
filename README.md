@@ -36,7 +36,7 @@ Do not use this repository as a substitute for the canonical text or incident-re
 
 # LUMINA-30 Structural Map
 
-Official Structural Relationship Definition  
+Stable Structural Relationship Definition  
 (2026-04 Current Repository Map)
 
 This repository defines the stable structural relationship
